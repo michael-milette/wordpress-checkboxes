@@ -1,0 +1,3 @@
+.icon-fa-check:before{content:"\f046";color: #008A00;}
+.icon-fa-square-o:before{content:"\f096";color: black;}
+.icon-fa-check, .icon-fa-square-o {font-size: 24px;}
